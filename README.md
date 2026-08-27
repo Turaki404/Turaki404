@@ -38,7 +38,7 @@
 </table>
 
 ****
-<p align="center"><ins>**:fish_cake: Anime**</ins></p>
+<p align="center"><ins>__:fish_cake: Anime__</ins></p>
 <p align="center">**:label:Favorites genres:** *Emotional，Tragedy，Iyashikei, School, Romance*
 <p align="center">**:movie_camera: 57.6k minutes watched**
 **:open_book: 9.4k chapters read**
