@@ -38,13 +38,13 @@
 </table>
 
 ****
-<p align="center"><ins>***:fish_cake: Anime***</ins></p>
+<p align="center"><ins>**:fish_cake: Anime**</ins></p>
 <p align="center">**:label:Favorites genres:** *Emotional，Tragedy，Iyashikei, School, Romance*
 <p align="center">**:movie_camera: 57.6k minutes watched**
 **:open_book: 9.4k chapters read**
 
 ****
-<p align="center"><ins>***:smiling_face_with_three_hearts: Favorites characters***</ins></p>
+<p align="center"><ins>**:smiling_face_with_three_hearts: Favorites characters**</ins></p>
 <p align="center">
   <img src="./assets/1.jpg"  height="74" alt="">
   <img src="./assets/2.jpg"  height="74" alt="">
