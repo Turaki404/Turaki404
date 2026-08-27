@@ -39,9 +39,9 @@
 
 ****
 <p align="center"><ins>***:fish_cake: Anime***</ins></p>
-<p align="center">***:label:Favorites genres:*** *Emotional，Tragedy，Iyashikei, School, Romance*
-<p align="center">***:movie_camera: 57.6k minutes watched***
-***:open_book: 9.4k chapters read***
+<p align="center">***:label:Favorites genres:*** *Emotional，Tragedy，Iyashikei, School, Romance*</p>
+<p align="center">***:movie_camera: 57.6k minutes watched***</p>
+<p align="center">***:open_book: 9.4k chapters read***</p>
 
 ****
 <p align="center"><ins>***:smiling_face_with_three_hearts: Favorites characters***</ins></p>
