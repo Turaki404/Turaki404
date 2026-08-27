@@ -6,7 +6,7 @@
 
 # Anime
 
-**:label:Favorites genres:** Emotional，Tragedy，Iyashikei, School, Romance
+**:label:Favorites genres:** *Emotional，Tragedy，Iyashikei, School, Romance*
 
 **:movie_camera:57.6k minutes watched**
 **:open_book:9.4k chapters read**
@@ -14,14 +14,14 @@
 ## :smiling_face_with_three_hearts: Favorites characters
 
 <p>
-  <img src="./assets/1.jpg" width="36" height="54" alt="">
-  <img src="./assets/2.jpg" width="36" height="54" alt="">
-  <img src="./assets/3.jpg" width="36" height="54" alt="">
-  <img src="./assets/4.jpg" width="36" height="54" alt="">
-  <img src="./assets/5.jpg" width="36" height="54" alt="">
-  <img src="./assets/6.jpg" width="36" height="54" alt="">
-  <img src="./assets/7.jpg" width="36" height="54" alt="">
-  <img src="./assets/8.jpg" width="36" height="54" alt="">
-  <img src="./assets/9.jpg" width="36" height="54" alt="">
-  <img src="./assets/10.jpg" width="36" height="54" alt="">
+  <img src="./assets/1.jpg"  height="74" alt="">
+  <img src="./assets/2.jpg"  height="74" alt="">
+  <img src="./assets/3.jpg"  height="74" alt="">
+  <img src="./assets/4.jpg"  height="74" alt="">
+  <img src="./assets/5.jpg"  height="74" alt="">
+  <img src="./assets/6.jpg"  height="74" alt="">
+  <img src="./assets/7.jpg"  height="74" alt="">
+  <img src="./assets/8.jpg"  height="74" alt="">
+  <img src="./assets/9.jpg"  height="74" alt="">
+  <img src="./assets/10.jpg"  height="74" alt="">
 </p>
