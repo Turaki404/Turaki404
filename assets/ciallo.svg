@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <g font-family="./assets/lolita.ttf" font-size="70" font-weight="800" text-anchor="middle">
+    <text x="600" y="160" stroke="#ffffff" stroke-width="12" stroke-linejoin="round" paint-order="stroke fill" letter-spacing="-1">
+      <tspan fill="#ff4d6d">❤</tspan>
+      <tspan fill="#ff7a59">C</tspan>
+      <tspan fill="#ffb84d">i</tspan>
+      <tspan fill="#ffd95a">a</tspan>
+      <tspan fill="#7fdc7f">l</tspan>
+      <tspan fill="#55d6ff">l</tspan>
+      <tspan fill="#6f8cff">o</tspan>
+      <tspan fill="#a66cff">!</tspan>
+      <tspan fill="#ff6fcf"> </tspan>
+      <tspan fill="#ff4d6d">I</tspan>
+      <tspan fill="#ff7a59">'</tspan>
+      <tspan fill="#ffb84d">m</tspan>
+      <tspan fill="#ffd95a"> </tspan>
+      <tspan fill="#7fdc7f">T</tspan>
+      <tspan fill="#55d6ff">u</tspan>
+      <tspan fill="#6f8cff">r</tspan>
+      <tspan fill="#a66cff">a</tspan>
+      <tspan fill="#ff6fcf">k</tspan>
+      <tspan fill="#ff6fba">i</tspan>
+      <tspan fill="#ff4d6d">❤</tspan>
+    </text>
+  </g>
+</svg>
