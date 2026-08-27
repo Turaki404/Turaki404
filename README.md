@@ -1,5 +1,3 @@
-<a href="https://moe.uxu.asia"><img src="http://moe.uxu.asia/@Github?name=RAEMDE&theme=booru-touhoulat&num=346925107" height="100" align="top"></a>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.lovesykun.cn/api/top-langs/?theme=onedark&username=Turaki404&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12">
   <img src="https://github-readme-stats.lovesykun.cn/api/top-langs/?username=Turaki404&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12">
